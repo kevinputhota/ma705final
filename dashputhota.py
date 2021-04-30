@@ -33,7 +33,7 @@ import plotly.graph_objects as go
 # fig.show()
 
 
-df1 = pd.read_csv('/Users/kevin/Downloads/menu.csv')
+df1 = pd.read_csv('menu.csv')
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
